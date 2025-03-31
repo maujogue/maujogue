@@ -13,9 +13,8 @@ What I've been most familiar with over the past years:
 
 Overall, I still consider myself a beginner but **I'm loving the process of learning** and the endless possibilies that lie ahead of me!
 
-
-- 🔭 I’m currently working on "*Pong!*" : a 2D full-stack online game, with 4 teammates
-- 🌱 I’m currently learning *React* 
+- 🔭 I just finished my first internship in MedTech mostly in Python
+- 🌱 I’m currently learning *React Native* 
 - 📫 How to reach me: maujogue@ik.me 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/maujogue)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mathis-aujogue/)  
