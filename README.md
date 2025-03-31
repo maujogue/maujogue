@@ -3,7 +3,6 @@
 
 I am currently studying at School 42 Lyon
 
-![I am currently studying at School 42 Lyon](https://media.licdn.com/dms/image/D4E16AQGhjQ3cmnnudw/profile-displaybackgroundimage-shrink_350_1400/0/1707406372258?e=1718236800&v=beta&t=oWNxxGxuGpEjCkkwds15O53mQAcBo-HCjTEvBAUDUnk)
 For now, I'm tackling the discovery of all the technologies used in **full-stack** development, from **frontend/backend** languages to **servers**, **docker** and **version control** systems.
 
 I'm also learning about effective and enjoyable methodologies to build **strong**, **clean** code in a team environment.
