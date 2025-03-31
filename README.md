@@ -9,7 +9,7 @@ I'm also learning about effective and enjoyable methodologies to build **strong*
 
 What I've been most familiar with over the past years:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,docker,c,cpp,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,js,html,css,docker,c,cpp,git,)](https://skillicons.dev)
 
 Overall, I still consider myself a beginner but **I'm loving the process of learning** and the endless possibilies that lie ahead of me!
 
